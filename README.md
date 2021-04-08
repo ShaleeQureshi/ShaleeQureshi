@@ -4,9 +4,9 @@ I like to code sometimes. :computer:
 
 I like using my technological skillset to better society:earth_americas:, whether it be by raising awareness of an issue or by being involved with my community. I also enjoy working on collaborative [side projects.](https://github.com/ShaleeQureshi?tab=repositories)
 
-### Notable Projects :clipboard: :trophy: (2020)
+<!-- ### Notable Projects :clipboard: :trophy: (2020) -->
 
-[Whitehare](https://github.com/ShaleeQureshi/Whitehare)
+<!-- [Whitehare](https://github.com/ShaleeQureshi/Whitehare)
 
 ```
 An open-source social media platform built using Python and the Django framework.
@@ -22,11 +22,11 @@ This website was built using NodeJS, ReactJS, and Firebase. This digital local e
 
 ```
 Web application built to raise awareness on Climate Change.
-```
+``` -->
 
-<a href="https://github.com/ShaleeQureshi">
+<a  style="float: left" href="https://github.com/ShaleeQureshi">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaleeQureshi&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/ShaleeQureshi">
+<a style="float: right" href="https://github.com/ShaleeQureshi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaleeQureshi&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
