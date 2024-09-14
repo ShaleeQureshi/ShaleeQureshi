@@ -3,6 +3,7 @@
 I like to code sometimes. :computer:
 
 [LinkedIn](https://www.linkedin.com/in/qureshishahrukh/)
+[Website](https://shaleequreshi.github.io/Shahrukh)
 
 
 <!-- ### Notable Projects :clipboard: :trophy: (2020) -->
