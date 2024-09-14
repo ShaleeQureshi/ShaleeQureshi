@@ -2,6 +2,8 @@
 
 I like to code sometimes. :computer:
 
+[LinkedIn](https://www.linkedin.com/in/qureshishahrukh/)
+
 
 <!-- ### Notable Projects :clipboard: :trophy: (2020) -->
 
