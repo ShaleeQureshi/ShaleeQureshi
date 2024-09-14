@@ -2,7 +2,6 @@
 
 I like to code sometimes. :computer:
 
-I like using my technological skillset to better society:earth_americas:, whether it be by raising awareness of an issue or by being involved with my community. I also enjoy working on collaborative [side projects.](https://shaleequreshi.github.io/Shahrukh/#/software)
 
 <!-- ### Notable Projects :clipboard: :trophy: (2020) -->
 
